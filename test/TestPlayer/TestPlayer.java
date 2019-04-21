@@ -15,7 +15,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author MP-_-44
+ * @author MP-_-44 
  */
 public class TestPlayer {
     
